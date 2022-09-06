@@ -4,7 +4,7 @@ Ejemplo desarrollado con react, bootstrap, fetch, useContext, buscar online<br>
 Api de pruebas https://jsonplaceholder.typicode.com/users<br>
 
 ## Publicación
-[react-task-bootstrap](https://inosttroza.github.io/react-task/)
+[react-crud-users-cards](https://inosttroza.github.io/react-crud-users-cards/)
 
 ## Instalación
 Para ejecutar este proyecto, ejecute localmente usando npm:
