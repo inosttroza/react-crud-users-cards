@@ -66,7 +66,7 @@ export function UsersContextProvider(props) {
     };
     const addUser = (userItem) => {
         setModalOpenAdd(true)
-        const id = 1;
+        let id = 1;
         if (users.length !== 0)
             id = users[users.length - 1].id + 1
         const newRow = {
